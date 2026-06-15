@@ -1,0 +1,6 @@
+{
+  "name": "South Arrow Coffee Co.",
+  "description": "A cozy, community-focused coffeehouse website for South Arrow Coffee Co. in Chapel Hill, Tennessee, featuring local history, an interactive menu, ordering simulator, and community gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
